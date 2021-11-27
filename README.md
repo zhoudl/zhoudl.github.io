@@ -1,4 +1,4 @@
-# [周东林 | 江苏楚淮软件科技开发有限公司](https://zhoudl.jschrj.com)
+# [周东林 | 点击了解更多](https://zhoudl.jschrj.com)
 ## 2007至2013年就职于中国联通淮安分公司，2014年自学lnmp，用wordpress，dedecms等开源模板，自学制作了几个博客和电影资源采集站。以对NGINX和Linux的部署理解就职江苏楚淮软件科技 有限公司项目实施岗位，在楚淮让我掌握CentosMini静默安装ORACLE数据库，Tomcat集群，NGINX负载，Dock容器，Dock Swam集群，Hadoop,Spark集群部署，初步接触 JAVA 和 Python 编程。
 #### 1.到楚淮第一件事，买了个路由器将，以前把公网IP地址配置在服务器上的坏习惯给改了，更换服务器操作系统为 exsi,使用 vcent管理。
 
