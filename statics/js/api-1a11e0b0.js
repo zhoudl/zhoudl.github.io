@@ -1,1 +1,0 @@
-import{r as t,M as a}from"./index-134c37b0.js";let n="/dev-api/api";const s=n+"/secrchlist/content",g=n+"/secrchlist/contentpage";function o(e){return t(s,a.GET,{tag:e})}function p(e,i,r){return t(g,a.GET,{tag:e,page:i,pagesize:r})}export{p as a,o as g};
